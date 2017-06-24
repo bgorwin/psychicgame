@@ -1,0 +1,15 @@
+.jumbotron {
+	border: 2px solid white;
+	margin-top: 30px;
+	text-align: center;
+	font-family: 'Josefin Sans', sans-serif;
+}
+
+.list-group {
+	text-align: center;
+}
+
+#psychic {
+	font-size: 50px;
+}
+
