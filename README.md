@@ -5,3 +5,5 @@ Psychic Game! The computer has selected a random letter and it is up to the user
 <p>
 To guess the letter that the computer has selected, click letters on the you're keyboard and see if you can guess the right one!
 <p>
+
+To view the app, click the link here: https://bgorwin.github.io/psychicgame/
